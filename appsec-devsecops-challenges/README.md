@@ -12,8 +12,14 @@
 </div>
 
 
-> 📊 **[Full slide deck (PDF)](slides/appsec-devsecops-challenges.pdf)** — the original presentation,
-> delivered at IFPR and taught as a mini-course at FATEC Ourinhos.
+<div align="center">
+
+<a href="slides/appsec-devsecops-challenges.pdf"><img src="docs/img/slides-cover.png" alt="Title slide of the deck" width="620" /></a>
+
+📊 **[Full slide deck (PDF)](slides/appsec-devsecops-challenges.pdf)** — the original presentation,
+delivered at IFPR and taught as a mini-course at FATEC Ourinhos.
+
+</div>
 
 A hands-on journey through **Application Security**, built as a set of progressive
 challenges that take security from a design-time activity all the way to offensive
