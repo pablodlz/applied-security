@@ -1,0 +1,39 @@
+# --- Local publication material (kept local, never versioned) — any project ---
+social/
+
+# --- Never commit raw engagement evidence / screenshots / scan output ---
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.docx
+*.doc
+*.log
+*.har
+*.pcap
+*.pcapng
+reports/
+*-report.json
+*-report.html
+zap-report.*
+horusec-report*
+
+# --- Secrets ---
+.env
+.env.*
+*.pem
+*.key
+*.token
+cookies.txt
+snyk-token*
+
+# --- Local tooling / editors / OS ---
+.claude/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

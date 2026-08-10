@@ -1,0 +1,18 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Pablo Galerani (pablodlz)
+
+The written content, documentation and figures in this repository are licensed under
+the Creative Commons Attribution 4.0 International License (SPDX: CC-BY-4.0).
+
+You are free to Share and Adapt the material for any purpose, even commercially,
+provided you give appropriate credit, link to the license, and indicate changes.
+
+Full licence text:      https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary:  https://creativecommons.org/licenses/by/4.0/
+
+Source-code, command and pipeline snippets are additionally available under the MIT License.
+
+All hands-on work targets deliberately vulnerable, authorised practice environments
+(lab VMs, OWASP Juice Shop). Those third-party projects belong to their respective authors.
+Nothing here targets, or reproduces data from, any real organisation.
