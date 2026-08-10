@@ -12,6 +12,9 @@
 </div>
 
 
+> 📊 **[Full slide deck (PDF)](slides/appsec-devsecops-challenges.pdf)** — the original presentation,
+> delivered at IFPR and taught as a mini-course at FATEC Ourinhos.
+
 A hands-on journey through **Application Security**, built as a set of progressive
 challenges that take security from a design-time activity all the way to offensive
 validation — the practical backbone of **DevSecOps** and **Shift Left**.

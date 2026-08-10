@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00B2DF&height=150&section=header&text=applied-security&fontColor=ffffff&fontSize=38&desc=Hands-on%20offensive%20%26%20AppSec%2FDevSecOps%20work&descSize=15&descAlignY=72" width="100%" alt="applied-security" />
+# 🛠️ applied-security
+
+**Hands-on offensive & AppSec / DevSecOps work**
 
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-00B2DF?style=flat-square)
 ![Offensive](https://img.shields.io/badge/-Offensive%20Security-d64545?style=flat-square&logo=hackthebox&logoColor=white)
@@ -97,7 +99,5 @@ a permissive licence is not authorisation.
 **License:** written content **CC BY 4.0**, snippets **MIT** — see [LICENSE](LICENSE).
 
 Maintained by [pablodlz](https://github.com/pablodlz) · [portfolio](https://pablodlz.github.io/portfolio/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00B2DF&height=90&section=footer" width="100%" alt="" />
 
 </div>
