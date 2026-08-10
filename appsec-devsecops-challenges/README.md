@@ -1,4 +1,16 @@
-# AppSec & DevSecOps Challenges
+<div align="center">
+
+# 🛡️ AppSec & DevSecOps Challenges
+
+**Security from design to offensive validation — the practical backbone of Shift Left.**
+
+![Approach](https://img.shields.io/badge/approach-Shift%20Left-2b6cb0?style=flat-square)
+![Coverage](https://img.shields.io/badge/coverage-SAST%20·%20SCA%20·%20IaC%20·%20DAST-008080?style=flat-square)
+![Target](https://img.shields.io/badge/target-OWASP%20Juice%20Shop-d35400?style=flat-square&logo=owasp&logoColor=white)
+![Taught](https://img.shields.io/badge/taught-IFPR%20%26%20FATEC-00B2DF?style=flat-square)
+
+</div>
+
 
 A hands-on journey through **Application Security**, built as a set of progressive
 challenges that take security from a design-time activity all the way to offensive
